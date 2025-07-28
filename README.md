@@ -1,5 +1,5 @@
 
-# 🧠 Emotion Detection API – FastAPI + ML
+# 🧠 Emotion Recognition API + Model – FastAPI + ML
 
 A lightweight ML-powered API that predicts the **emotion** behind a piece of text using a trained logistic regression model. Emotions include:
 
