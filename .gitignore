@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.joblib
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.cache
+.cache/
+*.sqlite3
+
+# FastAPI/UVicorn
+instance/
+*.db
+
+# Dataset
+dataset/*.csv
+
+# Pip
+pip-wheel-metadata/
+
+# Pytest
+.pytest_cache/
+
+# mypy, coverage, etc.
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
